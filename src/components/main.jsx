@@ -14,7 +14,7 @@ export default function Main(){
         axios.get(url)
             .then(response => {
                 setAdviceData(response.data.slip)
-            });
+            });;
     }, [count])
 
 
