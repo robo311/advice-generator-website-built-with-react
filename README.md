@@ -3,6 +3,7 @@
 
 ## Functionality
 - Simple app that generate random advice from [Advice slip API](https://api.adviceslip.com)
+- [Website](https://robo311.github.io/advice-generator-website-built-with-react/)
 
 ## Screenshot
 ![screenshot of the app](https://github.com/robo311/advice-generator-website-built-with-react/blob/master/screenshot.png)
