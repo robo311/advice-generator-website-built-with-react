@@ -11,6 +11,7 @@
 ## Built with
 - React
 - Axios
+- HTML
 - CSS
 
 ## Author
